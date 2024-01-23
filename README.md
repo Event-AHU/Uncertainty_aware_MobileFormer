@@ -22,3 +22,5 @@ An overview of our proposed uncertain-aware bridge based Mobile-Former framework
 ```shell
 git clone https://github.com/Event-AHU/Uncertainty_aware_MobileFormer.git
 ```
+
+- Install the dependencies
