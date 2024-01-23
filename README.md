@@ -29,15 +29,15 @@ git clone https://github.com/Event-AHU/Uncertainty_aware_MobileFormer.git
 ## datasets
 
 - Ncaltech101: [download link](https://1drv.ms/f/c/9168ed6fce3e99fd/EvPOD9f7LjNNo0QFSQv_5BkBsmKcl6nUnsa1MZEdzICIZA?e=B3daNo)
-- - please place the data folder based on the following structure:
+-  please place the data folder based on the following structure:
     ```
-	detection
+	MobileFormer_3D
 	├── data
-	│   ├── waymo
-	│   │   │── ImageSets
-	│   │   │── raw_data
-	│   │   │   │── segment-xxxxxxxx.tfrecord
+	│   ├── Ncaltech101
+	│   │   │── rawframes
+	│   │   │   │── accordion
 	│   │   │   │── ....
-	├── al3d_det
-	├── tools
+        │   │   │── Ncal_train.txt
+        │   │   │── Ncal_test.txt
+	├── datasets
 	```
