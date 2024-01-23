@@ -1,5 +1,6 @@
 # Uncertainty_aware_MobileFormer
-Uncertainty-aware Bridge based Mobile-Former Network for Event-based Pattern Recognition
+**Uncertainty-aware Bridge based Mobile-Former Network for Event-based Pattern Recognition**, Haoxiang Yang, Chengguo Yuan, Yabin Zhu, Lan Chen, Xiao Wang, Jin Tang 
+[[Paper](https://arxiv.org/abs/2401.11123)]
 
 # Overview
 ![image](https://github.com/Event-AHU/Uncertainty_aware_MobileFormer/blob/main/IMG/Overview.png)
