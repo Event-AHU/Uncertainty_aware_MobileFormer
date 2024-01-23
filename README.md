@@ -20,5 +20,5 @@ An overview of our proposed uncertain-aware bridge based Mobile-Former framework
 - clone this repository
 
 ```shell
-git clone https://github.com/lsj2408/Transformer-M.git
+git clone https://github.com/Event-AHU/Uncertainty_aware_MobileFormer.git
 ```
