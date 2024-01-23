@@ -14,3 +14,7 @@ An overview of our proposed uncertain-aware bridge based Mobile-Former framework
 ![image](https://github.com/Event-AHU/Uncertainty_aware_MobileFormer/blob/main/IMG/N-Caltech101_result.png)
 
 ![image](https://github.com/Event-AHU/Uncertainty_aware_MobileFormer/blob/main/IMG/DVS128_Gait-Day_result.png)
+
+# Installation
+
+* clone this repository
