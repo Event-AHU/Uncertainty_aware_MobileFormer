@@ -19,6 +19,6 @@ An overview of our proposed uncertain-aware bridge based Mobile-Former framework
 
 * clone this repository
 
-<html> 
-    <title>Markdown</title>
-</html>  
+```shell
+git clone https://github.com/lsj2408/Transformer-M.git
+```
