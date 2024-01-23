@@ -25,9 +25,9 @@ git clone https://github.com/Event-AHU/Uncertainty_aware_MobileFormer.git
 
 - install the virtual environment and pytorch:
    ```
-  conda create --name env_name python=3.8
+  conda create --name env_name python=3.7
   source activate env_name
-  pip install torch==1.8.0+cu111 torchvision==0.11.0+cu111 torchaudio==0.10.0 -f https://download.pytorch.org/whl/torch_stable.html
+  pip install -f https://download.pytorch.org/whl/torch_stable.html
   ```
 
 
