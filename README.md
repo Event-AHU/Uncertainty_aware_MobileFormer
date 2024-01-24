@@ -50,11 +50,10 @@ git clone https://github.com/Event-AHU/Uncertainty_aware_MobileFormer.git
 	├── datasets
 	```
 ## CheckPoint
-| Model | File Size | Update Date  | Valid MAE on PCQM4Mv2 | Download Link                                            |
+| Model | File Size | Update Date  | Valid MAE on Ncaltech101 | Download Link                                            |
 | ----- | --------- | ------------ | --------------------- | -------------------------------------------------------- |
-|  Ncaltech101  | 163MB     | Jan 24, 2024 | 0.798                | https://1drv.ms/u/s!AgZyC7AzHtDBdWUZttg6N2TsOxw?e=sUOhox |
-| L18   | 270MB     | Oct 04, 2022 | 0.0772                | https://1drv.ms/u/s!AgZyC7AzHtDBdrY59-_mP38jsCg?e=URoyUK |
-| L12_old | 189MB   | Mar 31, 2023 | 0.0787                | https://1drv.ms/u/s!AgZyC7AzHtDBesDk9tZK1yvbtzE?e=5H91Zq |
+|  UA_Nca  | 163MB     | Jan 24, 2024 | 0.798                | https://1drv.ms/f/c/9168ed6fce3e99fd/EmHUNHOw5SdPlY6WOLOMYr0BrQ_n84VFtefEpNT2OW9tHA?e=Ijc5da|
+
 
 
 ## Training
