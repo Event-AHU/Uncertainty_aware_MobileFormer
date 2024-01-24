@@ -52,3 +52,10 @@ git clone https://github.com/Event-AHU/Uncertainty_aware_MobileFormer.git
         │   │   │── Ncal_test.txt
 	├── datasets
 	```
+
+## Training
+ ```
+  #--root: database path
+  bash train.sh
+  ```
+The time cost for an epoch is around 8 minutes
