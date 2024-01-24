@@ -32,6 +32,7 @@ git clone https://github.com/Event-AHU/Uncertainty_aware_MobileFormer.git
    pip install torch_scatter==2.0.7
    pip install torch_sparse==0.6.9
    pip install torch_spline_conv==1.2.0
+   pip install -r requirements.txt
   ```
 
 
