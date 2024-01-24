@@ -27,7 +27,7 @@ git clone https://github.com/Event-AHU/Uncertainty_aware_MobileFormer.git
    ```
   conda create --name env_name python=3.7
   source activate env_name
-  pip install torch==1.7.1+cu110 torchvision=0.8.2+cu110 torchaudio==0.7.2 -f https://download.pytorch.org/whl/torch_stable.html
+  pip install torch==1.7.1+cu110 torchvision==0.8.2+cu110 torchaudio==0.7.2 -f https://download.pytorch.org/whl/torch_stable.html
    pip install torch_cluster==1.5.8
    pip install torch_scatter==2.0.7
    pip install torch_sparse==0.6.9
