@@ -59,3 +59,10 @@ git clone https://github.com/Event-AHU/Uncertainty_aware_MobileFormer.git
   bash train.sh
   ```
 The time cost for an epoch is around 8 minutes
+
+## Test
+```
+  #add -e --resume checkpoint_best.pth.tar.path
+  bash train.sh
+  ```
+
