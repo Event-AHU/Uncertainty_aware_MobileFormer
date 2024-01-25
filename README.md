@@ -52,7 +52,7 @@ git clone https://github.com/Event-AHU/Uncertainty_aware_MobileFormer.git
 ## Checkpoint
 | Model | File Size | Update Date  | Valid MAE on Ncaltech101 | Download Link                                            |
 | ----- | --------- | ------------ | --------------------- | -------------------------------------------------------- |
-|  UA_Nca  | 163MB  | Jan 24, 2024 | 0.798  | https://1drv.ms/f/c/9168ed6fce3e99fd/EmHUNHOw5SdPlY6WOLOMYr0BrQ_n84VFtefEpNT2OW9tHA?e=xFRZxc|
+|  UA_Nca  | 163MB  | Jan 24, 2024 | 0.798  | https://1drv.ms/f/c/9168ed6fce3e99fd/EmHUNHOw5SdPlY6WOLOMYr0BrQ_n84VFtefEpNT2OW9tHA?e=c5fwQI|
 
 
 
