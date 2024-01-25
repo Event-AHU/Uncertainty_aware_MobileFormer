@@ -69,3 +69,20 @@ The time cost for an epoch is around 8 minutes
   bash train.sh
   ```
 
+
+## Acknowledgement 
+[[Mobile-Former](https://openaccess.thecvf.com/content/CVPR2022/html/Chen_Mobile-Former_Bridging_MobileNet_and_Transformer_CVPR_2022_paper.html)]
+
+## Citation 
+```bib
+@misc{yang2024uncertaintyaware,
+      title={Uncertainty-aware Bridge based Mobile-Former Network for Event-based Pattern Recognition}, 
+      author={Haoxiang Yang and Chengguo Yuan and Yabin Zhu and Lan Chen and Xiao Wang and Jin Tang},
+      year={2024},
+      eprint={2401.11123},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
+
+
