@@ -1,5 +1,6 @@
 # Uncertainty_aware_MobileFormer
-**Uncertainty-aware Bridge based Mobile-Former Network for Event-based Pattern Recognition**, Haoxiang Yang, Chengguo Yuan, Yabin Zhu, Lan Chen, Xiao Wang, Jin Tang 
+**Uncertainty-aware Bridge based Mobile-Former Network for Event-based Pattern Recognition**, 
+Haoxiang Yang, Chengguo Yuan, Yabin Zhu, Lan Chen, Xiao Wang, Futian Wang 
 [[Paper](https://arxiv.org/abs/2401.11123)]
 
 ## Overview
@@ -77,7 +78,7 @@ The time cost for an epoch is around 8 minutes
 ```bib
 @misc{yang2024uncertaintyaware,
       title={Uncertainty-aware Bridge based Mobile-Former Network for Event-based Pattern Recognition}, 
-      author={Haoxiang Yang and Chengguo Yuan and Yabin Zhu and Lan Chen and Xiao Wang and Jin Tang},
+      author={Haoxiang Yang and Chengguo Yuan and Yabin Zhu and Lan Chen and Xiao Wang and Futian Wang},
       year={2024},
       eprint={2401.11123},
       archivePrefix={arXiv},
